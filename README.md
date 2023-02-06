@@ -21,5 +21,7 @@ My Special Skills Are:
   6. Platform as a Service (PaaS);
 
   7. Software as a Service (SAAS)
+ 
+  8. Microsoft Azure
 
 Ongoing Projects Porfolio Pinned Below 👇👇
